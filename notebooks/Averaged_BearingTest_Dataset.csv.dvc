@@ -1,0 +1,7 @@
+md5: a09da5f09bc534c660ae3f74d201c774
+outs:
+- md5: f8f3bdc544a3aeec2273ceef4746d275
+  path: Averaged_BearingTest_Dataset.csv
+  cache: true
+  metric: false
+  persist: false
