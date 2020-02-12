@@ -8,6 +8,7 @@ services:
     image: notebook:latest
     ports: 
       - "8888:8888"
+      - "8889:5000"
     volumes: 
       - ./notebooks:/home/jovyan/work
 
